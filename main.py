@@ -53,7 +53,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>𝐃𝐄𝐕𝐀 𝐓𝐇𝐀𝐊𝐔𝐑 𝐗𝐃 𝐊𝐈𝐍𝐆</title>
+  <title>MR 🦁SURAJ 💙</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body{
